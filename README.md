@@ -8,11 +8,12 @@ Analysis of COVID_19  data set to find confirmed cases, deaths , recovered cases
 ## OUTPUT Plots : 
 
 ### China 
-
+![China_COVID_19_Data_plot]()
 ### Iran
-
+![Iran_COVID_19_Data_plot]()
 ### Italy
-
+![Italy_COVID_19_Data_plot]()
 ### USA
-
+![USA_COVID_19_Data_plot]()
 ### India
+![India_COVID_19_Data_plot]()
