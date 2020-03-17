@@ -14,6 +14,6 @@ Analysis of COVID_19  data set to find confirmed cases, deaths , recovered cases
 ### Italy
 ![Italy_COVID_19_Data_plot](plots/Italy_plot.png)
 ### USA
-![USA_COVID_19_Data_plot](plots/USA_plot.png)
+![USA_COVID_19_Data_plot](plots/US_plot.png)
 ### India
 ![India_COVID_19_Data_plot](plots/India_plot.png)
